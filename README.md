@@ -395,6 +395,6 @@ Berdasarkan evaluasi model BERT + CNN-BiLSTM dan BERT + BiLSTM-CNN, menghasilkan
 
 
 ## Referensi ##
-* N. Aliyah Salsabila, Y. Ardhito Winatmoko, A. Akbar Septiandri and A. Jamal.(2018). "Colloquial Indonesian Lexicon". *2018 International Conference on Asian Language Processing (IALP)*, pp. 226-229. [doi: 10.1109/IALP.2018.8629151](https://ieeexplore.ieee.org/abstract/document/8629151).
+* N. Aliyah Salsabila, Y. Ardhito Winatmoko, A. Akbar Septiandri and A. Jamal.(2018). "Colloquial Indonesian Lexicon". *2018 International Conference on Asian Language Processing (IALP)*, pp. 226-229. https://doi.org/10.1109/IALP.2018.8629151.
 * Gowandi, T., Murfi, H., & Nurrohmah, S. (2021). Performance analysis of hybrid architectures of deep learning for indonesian sentiment analysis. *Soft Computing in Data Sciences*, 1489, 18–27. https://doi.org/10.1007/978-981-16-7334-4_2.
 * Wilie, Bryan et. al. (2020). IndoNLU: *Benchmark and Resources for Evaluating Indonesian Natural Language Understanding*. https://huggingface.co/indobenchmark/indobert-base-p2.
