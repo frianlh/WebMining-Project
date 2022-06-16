@@ -38,7 +38,7 @@ Tahapan *pre-processing data* untuk pembersihan data terdiri dari:
 4. Menghapus @ (*username*) dan # (*hashtag*)
 5. Menghapus tanda baca
 6. Menghapus angka
-7. Menghapus tanda \, ', ",
+7. Menghapus tanda \\, ', ",
 8. Menghapus emoji
 9. Menghapus spasi berlebih
 10. Memisahkan kata berulang
