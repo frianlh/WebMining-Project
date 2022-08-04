@@ -3,7 +3,7 @@
 
 > **Disclaimer :**
 > 
-> This project is for educational purposes only.
+> This project is for educational purposes.
 > 
 > **Tujuan :**
 > 
@@ -148,7 +148,7 @@ bert_tokenizer = AutoTokenizer.from_pretrained("indobenchmark/indobert-base-p2")
 def tokenisasi(teks):
       encode_dict = bert_tokenizer(teks,
                                    add_special_tokens = True,
-                                   max_length = 128, #maximum token per kalimat = 125
+                                   max_length = 128, #maximum token per kalimat = 128
                                    padding = 'max_length',
                                    truncation = True,
                                    return_attention_mask = True,
